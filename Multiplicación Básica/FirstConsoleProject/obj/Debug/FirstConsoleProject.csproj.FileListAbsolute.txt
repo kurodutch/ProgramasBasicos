@@ -1,0 +1,7 @@
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.exe.config
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.exe
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\bin\Debug\FirstConsoleProject.pdb
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\obj\Debug\FirstConsoleProject.csprojAssemblyReference.cache
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\obj\Debug\FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\obj\Debug\FirstConsoleProject.exe
+C:\Users\JP_51\Desktop\FirstConsoleProject\FirstConsoleProject\obj\Debug\FirstConsoleProject.pdb
