@@ -1,0 +1,7 @@
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\obj\Debug\ProgramaPrueba.csprojAssemblyReference.cache
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\obj\Debug\ProgramaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\bin\Debug\ProgramaPrueba.exe.config
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\bin\Debug\ProgramaPrueba.exe
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\bin\Debug\ProgramaPrueba.pdb
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\obj\Debug\ProgramaPrueba.exe
+C:\Users\JP_51\Desktop\ProgramaPrueba\ProgramaPrueba\obj\Debug\ProgramaPrueba.pdb
