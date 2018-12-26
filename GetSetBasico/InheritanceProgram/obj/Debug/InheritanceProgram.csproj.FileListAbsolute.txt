@@ -1,0 +1,14 @@
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.exe.config
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.exe
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\bin\Debug\InheritanceProgram.pdb
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.csprojAssemblyReference.cache
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.exe
+C:\Users\JP_51\Desktop\InheritanceProgram\InheritanceProgram\obj\Debug\InheritanceProgram.pdb
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\obj\Debug\InheritanceProgram.csprojAssemblyReference.cache
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\obj\Debug\InheritanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\obj\Debug\InheritanceProgram.exe
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\obj\Debug\InheritanceProgram.pdb
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\bin\Debug\InheritanceProgram.exe.config
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\bin\Debug\InheritanceProgram.exe
+C:\Users\JP_51\Desktop\EnumBasico\InheritanceProgram\bin\Debug\InheritanceProgram.pdb
